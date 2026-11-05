@@ -8,7 +8,7 @@ export const CONFIG = {
   contactEmail: '', // Client's approved public customer-service address.
   contactPhone: '',
   address: '',
-  siteUrl: '', // Set the final canonical origin, including any GitHub Pages subfolder.
+  siteUrl: 'https://cinnamonsmoothy.github.io/bp-luxe-relove/',
   collections: {
     all: 'all-products', bags: 'new-arrivals', shoes: 'shoes', sunglasses: 'sunglasses',
     accessories: 'accessories', fashion: 'fashion', beauty: 'hair-beauty', new: 'new-arrivals'
