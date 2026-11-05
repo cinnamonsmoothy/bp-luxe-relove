@@ -1,0 +1,114 @@
+/* Landing page: quiet typography, generous image compositions, restrained motion. */
+body[data-page="home"]{background:#fcfaf7}
+.collections{background:#fcfaf7;min-height:auto;padding:7rem 0 8rem}
+.collections .section-heading{display:grid;grid-template-columns:1.4fr 1fr;align-items:end;gap:4rem;max-width:none;text-align:left;margin-bottom:3.5rem}
+.collections .section-heading h2{max-width:42rem;font-size:clamp(3.5rem,5.8vw,6rem);line-height:1.02;margin:0;letter-spacing:-.035em}
+.collections .section-heading h2 em{display:block;font-weight:400;color:#896959}
+.collections .section-heading p{max-width:24rem;margin:0 0 .3rem auto;line-height:1.9}
+.collection-grid{gap:1.5rem;align-items:start;padding-bottom:3rem}
+.collection-card{height:31rem;overflow:visible;background:transparent}
+.collection-card:nth-child(2){margin-top:4rem}
+.collection-card img{height:calc(100% - 4rem);object-fit:cover;clip-path:inset(0);transition:clip-path .8s ease,filter .8s ease}
+.collection-card:hover img{transform:none;clip-path:inset(.65rem);filter:brightness(1.035)}
+.collection-card::after{display:none}
+.collection-info{position:static;color:#392c24;padding:1rem 0;display:flex;align-items:center;border-bottom:1px solid #dcd0c5}
+.collection-info strong{font-size:2.25rem;line-height:1}
+.collection-info>span{font-size:1.1rem;color:#896959}
+.trust-points{background:#f4efe8;padding:3.5rem 0;border-bottom:0}
+.trust-point h2{font-size:1.9rem}.trust-point p{font-size:.8rem;line-height:1.8}
+.trust-point::before{width:2.25rem;background:#b79b86}
+.arrivals{min-height:auto;background:#fff;padding:6rem 0 7rem}
+.arrivals .section-heading h2{font-size:clamp(3.5rem,5vw,5.5rem);letter-spacing:-.025em}
+.arrivals .shop-tabs{padding-bottom:1rem;border-bottom:1px solid #e9e0d7;width:fit-content;max-width:100%;margin-inline:auto}
+.story{grid-template-columns:1fr;min-height:85svh;isolation:isolate;background:#38251e}
+.story .story-image{position:absolute;inset:0;min-height:0;z-index:-2}
+.story::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#231711c9,#23171166 60%,#23171124)}
+.story .story-copy{background:transparent;padding:7rem max(4.25vw,2rem);justify-content:flex-start;min-height:85svh}
+.story .editorial-copy-inner{max-width:49rem}
+.story-copy h2{font-size:clamp(4rem,7.2vw,8rem);line-height:.98;letter-spacing:-.035em;text-wrap:balance}
+.story-copy h2 em{display:block;color:#eed6c0}
+.story-copy p:not(.kicker){max-width:28rem;font-size:.9375rem;color:#f2e9e1;line-height:1.9}
+.shoe-edit,.signature{width:min(91.25rem,91.5%);margin:7rem auto;min-height:0;background:transparent;grid-template-columns:1.1fr 1fr;gap:5vw;overflow:visible;align-items:center}
+.shoe-edit .editorial-media,.signature .editorial-media{min-height:0;height:43rem;position:relative;overflow:hidden}
+.shoe-copy,.signature-copy{background:transparent;padding:3rem 0;min-height:0;position:relative}
+.shoe-edit .editorial-copy-inner,.signature .editorial-copy-inner{max-width:31rem}
+.shoe-edit h2,.signature h2{font-size:clamp(3.5rem,5.1vw,6rem);line-height:1.03;letter-spacing:-.035em}
+.shoe-edit h2 em,.signature h2 em{display:block;color:#896959}
+.editorial-copy-inner>.button{margin-top:.5rem}
+.signature{grid-template-columns:1fr 1.1fr}
+.signature .editorial-media{grid-column:2;grid-row:1}
+.signature-copy{grid-column:1;grid-row:1}
+.promises{min-height:0;padding:5rem 0;background:#f2ece4;border-block:1px solid #e5dace}
+.promises .section-heading{margin-bottom:3rem}.promises .section-heading h2{font-size:clamp(3rem,4.4vw,4.75rem)}
+.promise-icon{font-size:1.75rem;height:3rem;color:#96775f}.promise h3{font-size:.875rem}.promise p{font-size:.75rem}
+.brand-statement{min-height:70svh;padding:6rem 1.5rem;background:#fcfaf7;border-top:1px solid #e9e0d6}
+.brand-statement .statement{font-size:clamp(3.5rem,6.6vw,7.5rem);letter-spacing:-.035em;max-width:60rem;line-height:1.07;text-wrap:balance}
+.statement-rule{width:5rem;background:#b59b86}
+.newsletter{min-height:70svh}.newsletter h2{font-size:clamp(3.75rem,6.8vw,7rem);letter-spacing:-.035em;text-wrap:balance}
+.newsletter::after{background:linear-gradient(#280a1266,#280a1222 50%,#280a1277)}
+.scene-image{position:absolute;inset:0;background-size:cover;background-position:center;transform:translate3d(0,var(--scene-drift,0px),0) scale(1.16);pointer-events:none}
+.story-image{overflow:hidden}
+.newsletter-bg{transform:translate3d(0,var(--scene-drift,0px),0) scale(1.16)}
+@media(min-width:801px){.collections .collection-card:nth-child(3){height:28rem}.collections .collection-card:nth-child(1){height:33rem}}
+@media(max-width:800px){
+ .collections{padding:4.5rem 0 4rem}.collections .section-heading{display:block;text-align:center;margin-bottom:2rem}.collections .section-heading h2{font-size:3.5rem}.collections .section-heading p{margin:1.25rem auto 0;max-width:27rem}
+ .collection-grid{gap:.75rem;padding-bottom:1.5rem}.collection-card{height:23rem}.collection-card:nth-child(2){margin-top:2rem}.collection-info strong{font-size:1.75rem}
+ .arrivals{padding:4rem 0}.story .story-copy{padding:4.5rem 7vw;min-height:70svh}.story{min-height:70svh}.story-copy h2{font-size:clamp(3.75rem,9vw,6rem)}
+ .shoe-edit,.signature{margin:4rem auto;gap:2.5rem}.shoe-edit .editorial-media,.signature .editorial-media{height:32rem;min-height:0;width:100%}.shoe-copy,.signature-copy{padding:0 .5rem;min-height:0;width:100%}.shoe-edit h2,.signature h2{font-size:3.75rem}.editorial-copy-inner{max-width:32rem}
+ .promises{padding:4rem 0}.brand-statement{min-height:60svh;padding:4rem 1rem}.newsletter{min-height:65svh}
+}
+@media(max-width:550px){
+ .trust-points{padding:1rem 0}.trust-point{padding:1.75rem .5rem}.trust-point h2{font-size:1.8rem}.trust-point::before{margin-bottom:.875rem}
+ .collection-grid{grid-template-columns:1fr 1fr;gap:1.5rem .875rem;padding:0}.collection-card{height:19rem;min-height:0;max-height:none}.collection-card:nth-child(2){margin-top:2rem}.collection-card:first-child{grid-column:1/-1;height:29rem}.collection-card:nth-child(3){margin-top:0}.collection-card img{height:calc(100% - 3.5rem)}.collection-info{padding:.875rem 0}.collection-info strong{font-size:1.65rem}.collection-info>span{font-size:.875rem}
+ .collections .section-heading h2{font-size:3.25rem}.collections .section-heading p{font-size:.8125rem}.story-copy p:not(.kicker){font-size:.875rem}.story::after{background:linear-gradient(90deg,#231711d9,#23171166)}
+ .shoe-edit .editorial-media,.signature .editorial-media{height:27rem}.shoe-edit h2,.signature h2{font-size:3.5rem}.shoe-edit,.signature{gap:2rem}.promises .section-heading h2{font-size:2.8rem}.promise{padding:.75rem}.promise p{font-size:.75rem;line-height:1.7}
+ .brand-statement .statement{font-size:3.5rem}.newsletter h2{font-size:3.75rem}.newsletter-content{padding:0 .75rem}
+}
+@media(prefers-reduced-motion:reduce){.scene-image,.newsletter-bg{transform:scale(1.16)}.collection-card img{transition:none}}
+
+.collections .section-inner,.arrivals .section-inner{width:min(91.25rem,91.5%);margin-inline:auto}
+
+/* Shoes editorial: overlapping photography and a spacious text column. */
+.shoe-edit{display:grid;grid-template-columns:1.05fr 1fr;column-gap:8%;margin-block:8rem 10rem;position:relative}
+.shoe-edit .editorial-media{grid-column:1;grid-row:1;height:44rem;width:90%;margin-left:0;align-self:start}
+.shoe-edit .shoe-copy{grid-column:2;grid-row:1;padding:3rem 0 7rem}
+.shoe-edit .editorial-copy-inner{max-width:34rem}
+.shoe-edit h2{font-size:clamp(3.5rem,5.4vw,6.25rem)}
+.shoe-detail{position:absolute;overflow:hidden;pointer-events:none;width:21%;height:20rem;left:30%;bottom:-3rem;border:.625rem solid #fcfaf7;box-shadow:0 1.5rem 3rem #37211512;z-index:1}
+.shoe-detail img{display:block;width:100%;height:100%;object-fit:cover;object-position:35% center}
+.shoe-edit::before{content:'';position:absolute;top:3rem;left:2rem;width:39%;height:calc(100% - 2rem);background:#eee5db;z-index:-1}
+.shoe-edit .scene-image{background-position:85% center}
+
+/* Solid ink revealed progressively along each letter's curves. */
+@font-face{font-family:HeroTinta;src:url("assets/fonts/Tinta-Regular.ttf") format("truetype");font-display:block}
+.hero-script{display:inline-block;position:relative;top:.16em;width:4.2em;height:1.26em;vertical-align:-.26em;margin-left:-.05em}
+.hero-handwriting{display:block;width:100%;height:100%;overflow:visible}
+.hero-letter-fill,.hero-letter-period{fill:currentColor}
+.hero-letter-reveal{stroke-dasharray:1;stroke-dashoffset:0}
+.has-js .hero-letter-reveal{stroke-dashoffset:1}
+.has-js .hero-intro-ready .hero-letter-reveal{animation:hero-letter-trace var(--letter-duration) linear var(--letter-delay) both}
+.has-js .hero-intro-ready .hero-letter-period{opacity:0;animation:hero-letter-fill .12s ease var(--letter-delay) both}
+@keyframes hero-letter-trace{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes hero-letter-fill{to{opacity:1}}
+.hero h1:has(.hero-script){line-height:1.25}
+.has-js .hero-intro-ready .hero-copy.in-view .hero-word{transition-delay:0s;transition-duration:.65s}
+.has-js .hero .hero-copy.reveal,
+.has-js .hero .hero-copy .hero-word,
+.has-js .hero .hero-copy .hero-description,
+.has-js .hero .hero-copy .hero-actions{opacity:1!important;transform:none!important;filter:none!important;transition:none!important;animation:none!important}
+@media(prefers-reduced-motion:reduce){
+ .has-js .hero-letter-reveal{animation:none;stroke-dashoffset:0}
+ .has-js .hero-letter-fill,.has-js .hero-letter-period{animation:none;opacity:1}
+}
+@media(max-width:800px){
+ .shoe-edit{grid-template-columns:1fr;margin:5rem auto;gap:0}
+ .shoe-edit .editorial-media{grid-column:1;grid-row:1;width:85%;height:35rem}
+ .shoe-detail{width:35%;height:18rem;left:auto;right:0;top:21rem;bottom:auto;border-width:.5rem}
+ .shoe-edit .shoe-copy{grid-column:1;grid-row:2;padding:6rem .5rem 0}
+ .shoe-edit::before{height:33rem;width:80%;left:1.5rem;top:2rem}
+ .shoe-edit .editorial-copy-inner{max-width:36rem}.shoe-edit h2{font-size:4rem}
+}
+@media(max-width:550px){
+ .shoe-edit .editorial-media{height:26rem}.shoe-detail{top:16rem;height:13rem;width:39%}.shoe-edit::before{height:25rem}
+ .shoe-edit .shoe-copy{padding-top:5rem}.shoe-edit h2{font-size:3.35rem}
+}

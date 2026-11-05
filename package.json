@@ -1,0 +1,11 @@
+{
+  "name": "bp-luxe-relove",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node tests/storefront.cjs",
+    "demo:generate": "node scripts/create-demo.mjs"
+  },
+  "devDependencies": { "playwright": "^1.63.0" }
+}

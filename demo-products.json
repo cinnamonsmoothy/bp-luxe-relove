@@ -1,0 +1,3473 @@
+[
+  {
+    "id": "demo-product-1",
+    "handle": "demo-bags-1",
+    "title": "The sculpted top-handle",
+    "vendor": "BP Studio · Sample",
+    "category": "bags",
+    "productType": "Handbags",
+    "description": "A cream sculpted top-handle, imagined for a considered wardrobe. A structured silhouette with a softly curved handle and a polished closure. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 495,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-11-04T14:19:46.779Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Leather",
+      "style": "Classic",
+      "dimensions": "26 × 19 × 10 cm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-bags-1-0.svg",
+        "altText": "Original illustration of the sculpted top-handle in cream",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-bags-1-1.svg",
+        "altText": "Original illustration of the sculpted top-handle in cream",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-bags-1-0.svg",
+      "altText": "Original illustration of the sculpted top-handle in cream",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cream"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-1-0",
+        "title": "Cream / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "495",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-2",
+    "handle": "demo-bags-2",
+    "title": "The evening shoulder bag",
+    "vendor": "BP Studio · Sample",
+    "category": "bags",
+    "productType": "Handbags",
+    "description": "A burgundy evening shoulder bag, imagined for a considered wardrobe. A structured silhouette with a softly curved handle and a polished closure. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 540,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-11-03T23:55:46.784Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Leather",
+      "style": "Minimal",
+      "dimensions": "26 × 19 × 10 cm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-bags-2-0.svg",
+        "altText": "Original illustration of the evening shoulder bag in burgundy",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-bags-2-1.svg",
+        "altText": "Original illustration of the evening shoulder bag in burgundy",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-bags-2-0.svg",
+      "altText": "Original illustration of the evening shoulder bag in burgundy",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Burgundy"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-2-0",
+        "title": "Burgundy / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "540",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-3",
+    "handle": "demo-bags-3",
+    "title": "The soft leather tote",
+    "vendor": "BP Studio · Sample",
+    "category": "bags",
+    "productType": "Handbags",
+    "description": "A black soft leather tote, imagined for a considered wardrobe. A structured silhouette with a softly curved handle and a polished closure. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 585,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-11-03T09:31:46.786Z",
+    "fields": {
+      "condition": "Good",
+      "material": "Leather",
+      "style": "Evening",
+      "dimensions": "26 × 19 × 10 cm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-bags-3-0.svg",
+        "altText": "Original illustration of the soft leather tote in black",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-bags-3-1.svg",
+        "altText": "Original illustration of the soft leather tote in black",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-bags-3-0.svg",
+      "altText": "Original illustration of the soft leather tote in black",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-3-0",
+        "title": "Black / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "585",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-4",
+    "handle": "demo-bags-4",
+    "title": "The everyday crossbody",
+    "vendor": "BP Studio · Sample",
+    "category": "bags",
+    "productType": "Handbags",
+    "description": "A chocolate everyday crossbody, imagined for a considered wardrobe. A structured silhouette with a softly curved handle and a polished closure. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 630,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-11-02T19:07:46.787Z",
+    "fields": {
+      "condition": "New",
+      "material": "Leather",
+      "style": "Classic",
+      "dimensions": "26 × 19 × 10 cm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-bags-4-0.svg",
+        "altText": "Original illustration of the everyday crossbody in chocolate",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-bags-4-1.svg",
+        "altText": "Original illustration of the everyday crossbody in chocolate",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-bags-4-0.svg",
+      "altText": "Original illustration of the everyday crossbody in chocolate",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Chocolate"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-4-0",
+        "title": "Chocolate / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "630",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-5",
+    "handle": "demo-bags-5",
+    "title": "The curved mini bag",
+    "vendor": "BP Studio · Sample",
+    "category": "bags",
+    "productType": "Handbags",
+    "description": "A tan curved mini bag, imagined for a considered wardrobe. A structured silhouette with a softly curved handle and a polished closure. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 675,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-11-02T04:43:46.788Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Leather",
+      "style": "Minimal",
+      "dimensions": "26 × 19 × 10 cm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-bags-5-0.svg",
+        "altText": "Original illustration of the curved mini bag in tan",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-bags-5-1.svg",
+        "altText": "Original illustration of the curved mini bag in tan",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-bags-5-0.svg",
+      "altText": "Original illustration of the curved mini bag in tan",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Tan"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-5-0",
+        "title": "Tan / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "675",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-6",
+    "handle": "demo-bags-6",
+    "title": "The structured satchel",
+    "vendor": "BP Studio · Sample",
+    "category": "bags",
+    "productType": "Handbags",
+    "description": "A champagne structured satchel, imagined for a considered wardrobe. A structured silhouette with a softly curved handle and a polished closure. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 720,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-11-01T14:19:46.790Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Leather",
+      "style": "Evening",
+      "dimensions": "26 × 19 × 10 cm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-bags-6-0.svg",
+        "altText": "Original illustration of the structured satchel in champagne",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-bags-6-1.svg",
+        "altText": "Original illustration of the structured satchel in champagne",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-bags-6-0.svg",
+      "altText": "Original illustration of the structured satchel in champagne",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Champagne"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-6-0",
+        "title": "Champagne / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "720",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-7",
+    "handle": "demo-shoes-1",
+    "title": "The pointed slingback",
+    "vendor": "BP Studio · Sample",
+    "category": "shoes",
+    "productType": "Shoes",
+    "description": "A cream pointed slingback, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 185,
+    "currency": "GBP",
+    "compare": 275,
+    "createdAt": "2026-10-31T23:55:46.792Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Leather",
+      "style": "Classic",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-shoes-1-0.svg",
+        "altText": "Original illustration of the pointed slingback in cream",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-shoes-1-1.svg",
+        "altText": "Original illustration of the pointed slingback in cream",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-shoes-1-0.svg",
+      "altText": "Original illustration of the pointed slingback in cream",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cream"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "EU 37",
+          "EU 38",
+          "EU 39"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-7-0",
+        "title": "Cream / EU 37",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "EU 37"
+          }
+        ],
+        "price": {
+          "amount": "185",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "275",
+          "currencyCode": "GBP"
+        }
+      },
+      {
+        "id": "demo-variant-7-1",
+        "title": "Cream / EU 38",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "EU 38"
+          }
+        ],
+        "price": {
+          "amount": "185",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "275",
+          "currencyCode": "GBP"
+        }
+      },
+      {
+        "id": "demo-variant-7-2",
+        "title": "Cream / EU 39",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "EU 39"
+          }
+        ],
+        "price": {
+          "amount": "185",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "275",
+          "currencyCode": "GBP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "demo-product-8",
+    "handle": "demo-shoes-2",
+    "title": "The evening pump",
+    "vendor": "BP Studio · Sample",
+    "category": "shoes",
+    "productType": "Shoes",
+    "description": "A burgundy evening pump, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 230,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-31T09:31:46.794Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Leather",
+      "style": "Minimal",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-shoes-2-0.svg",
+        "altText": "Original illustration of the evening pump in burgundy",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-shoes-2-1.svg",
+        "altText": "Original illustration of the evening pump in burgundy",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-shoes-2-0.svg",
+      "altText": "Original illustration of the evening pump in burgundy",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Burgundy"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "EU 37",
+          "EU 38",
+          "EU 39"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-8-0",
+        "title": "Burgundy / EU 37",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "EU 37"
+          }
+        ],
+        "price": {
+          "amount": "230",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-8-1",
+        "title": "Burgundy / EU 38",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "EU 38"
+          }
+        ],
+        "price": {
+          "amount": "230",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-8-2",
+        "title": "Burgundy / EU 39",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "EU 39"
+          }
+        ],
+        "price": {
+          "amount": "230",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-9",
+    "handle": "demo-shoes-3",
+    "title": "The leather ballet flat",
+    "vendor": "BP Studio · Sample",
+    "category": "shoes",
+    "productType": "Shoes",
+    "description": "A black leather ballet flat, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": false,
+    "available": false,
+    "price": 275,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-30T19:07:46.796Z",
+    "fields": {
+      "condition": "Good",
+      "material": "Leather",
+      "style": "Evening",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-shoes-3-0.svg",
+        "altText": "Original illustration of the leather ballet flat in black",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-shoes-3-1.svg",
+        "altText": "Original illustration of the leather ballet flat in black",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-shoes-3-0.svg",
+      "altText": "Original illustration of the leather ballet flat in black",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "EU 37",
+          "EU 38",
+          "EU 39"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-9-0",
+        "title": "Black / EU 37",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "EU 37"
+          }
+        ],
+        "price": {
+          "amount": "275",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-9-1",
+        "title": "Black / EU 38",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "EU 38"
+          }
+        ],
+        "price": {
+          "amount": "275",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-9-2",
+        "title": "Black / EU 39",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "EU 39"
+          }
+        ],
+        "price": {
+          "amount": "275",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-10",
+    "handle": "demo-shoes-4",
+    "title": "The sculpted heel",
+    "vendor": "BP Studio · Sample",
+    "category": "shoes",
+    "productType": "Shoes",
+    "description": "A chocolate sculpted heel, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 320,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-30T04:43:46.798Z",
+    "fields": {
+      "condition": "New",
+      "material": "Leather",
+      "style": "Classic",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-shoes-4-0.svg",
+        "altText": "Original illustration of the sculpted heel in chocolate",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-shoes-4-1.svg",
+        "altText": "Original illustration of the sculpted heel in chocolate",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-shoes-4-0.svg",
+      "altText": "Original illustration of the sculpted heel in chocolate",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Chocolate"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "EU 37",
+          "EU 38",
+          "EU 39"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-10-0",
+        "title": "Chocolate / EU 37",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "EU 37"
+          }
+        ],
+        "price": {
+          "amount": "320",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-10-1",
+        "title": "Chocolate / EU 38",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "EU 38"
+          }
+        ],
+        "price": {
+          "amount": "320",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-10-2",
+        "title": "Chocolate / EU 39",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "EU 39"
+          }
+        ],
+        "price": {
+          "amount": "320",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-11",
+    "handle": "demo-shoes-5",
+    "title": "The classic loafer",
+    "vendor": "BP Studio · Sample",
+    "category": "shoes",
+    "productType": "Shoes",
+    "description": "A tan classic loafer, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 365,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-29T14:19:46.800Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Leather",
+      "style": "Minimal",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-shoes-5-0.svg",
+        "altText": "Original illustration of the classic loafer in tan",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-shoes-5-1.svg",
+        "altText": "Original illustration of the classic loafer in tan",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-shoes-5-0.svg",
+      "altText": "Original illustration of the classic loafer in tan",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Tan"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "EU 37",
+          "EU 38",
+          "EU 39"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-11-0",
+        "title": "Tan / EU 37",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "EU 37"
+          }
+        ],
+        "price": {
+          "amount": "365",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-11-1",
+        "title": "Tan / EU 38",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "EU 38"
+          }
+        ],
+        "price": {
+          "amount": "365",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-11-2",
+        "title": "Tan / EU 39",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "EU 39"
+          }
+        ],
+        "price": {
+          "amount": "365",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-12",
+    "handle": "demo-shoes-6",
+    "title": "The minimal mule",
+    "vendor": "BP Studio · Sample",
+    "category": "shoes",
+    "productType": "Shoes",
+    "description": "A champagne minimal mule, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 410,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-28T23:55:46.805Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Leather",
+      "style": "Evening",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-shoes-6-0.svg",
+        "altText": "Original illustration of the minimal mule in champagne",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-shoes-6-1.svg",
+        "altText": "Original illustration of the minimal mule in champagne",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-shoes-6-0.svg",
+      "altText": "Original illustration of the minimal mule in champagne",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Champagne"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "EU 37",
+          "EU 38",
+          "EU 39"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-12-0",
+        "title": "Champagne / EU 37",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "EU 37"
+          }
+        ],
+        "price": {
+          "amount": "410",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-12-1",
+        "title": "Champagne / EU 38",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "EU 38"
+          }
+        ],
+        "price": {
+          "amount": "410",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-12-2",
+        "title": "Champagne / EU 39",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "EU 39"
+          }
+        ],
+        "price": {
+          "amount": "410",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-13",
+    "handle": "demo-sunglasses-1",
+    "title": "The oval acetate frame",
+    "vendor": "BP Studio · Sample",
+    "category": "sunglasses",
+    "productType": "Sunglasses",
+    "description": "A cream oval acetate frame, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 125,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-28T09:31:46.806Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Acetate",
+      "style": "Classic",
+      "dimensions": "Lens 52 mm · Bridge 19 mm · Temple 140 mm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-sunglasses-1-0.svg",
+        "altText": "Original illustration of the oval acetate frame in cream",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-sunglasses-1-1.svg",
+        "altText": "Original illustration of the oval acetate frame in cream",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-sunglasses-1-0.svg",
+      "altText": "Original illustration of the oval acetate frame in cream",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cream"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-13-0",
+        "title": "Cream / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "125",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-14",
+    "handle": "demo-sunglasses-2",
+    "title": "The sculpted cat-eye",
+    "vendor": "BP Studio · Sample",
+    "category": "sunglasses",
+    "productType": "Sunglasses",
+    "description": "A burgundy sculpted cat-eye, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 170,
+    "currency": "GBP",
+    "compare": 260,
+    "createdAt": "2026-10-27T19:07:46.807Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Acetate",
+      "style": "Minimal",
+      "dimensions": "Lens 52 mm · Bridge 19 mm · Temple 140 mm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-sunglasses-2-0.svg",
+        "altText": "Original illustration of the sculpted cat-eye in burgundy",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-sunglasses-2-1.svg",
+        "altText": "Original illustration of the sculpted cat-eye in burgundy",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-sunglasses-2-0.svg",
+      "altText": "Original illustration of the sculpted cat-eye in burgundy",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Burgundy"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-14-0",
+        "title": "Burgundy / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "170",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "260",
+          "currencyCode": "GBP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "demo-product-15",
+    "handle": "demo-sunglasses-3",
+    "title": "The oversized square frame",
+    "vendor": "BP Studio · Sample",
+    "category": "sunglasses",
+    "productType": "Sunglasses",
+    "description": "A black oversized square frame, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 215,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-27T04:43:46.809Z",
+    "fields": {
+      "condition": "Good",
+      "material": "Acetate",
+      "style": "Evening",
+      "dimensions": "Lens 52 mm · Bridge 19 mm · Temple 140 mm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-sunglasses-3-0.svg",
+        "altText": "Original illustration of the oversized square frame in black",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-sunglasses-3-1.svg",
+        "altText": "Original illustration of the oversized square frame in black",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-sunglasses-3-0.svg",
+      "altText": "Original illustration of the oversized square frame in black",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-15-0",
+        "title": "Black / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "215",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-16",
+    "handle": "demo-sunglasses-4",
+    "title": "The everyday rectangle",
+    "vendor": "BP Studio · Sample",
+    "category": "sunglasses",
+    "productType": "Sunglasses",
+    "description": "A chocolate everyday rectangle, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 260,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-26T14:19:46.812Z",
+    "fields": {
+      "condition": "New",
+      "material": "Acetate",
+      "style": "Classic",
+      "dimensions": "Lens 52 mm · Bridge 19 mm · Temple 140 mm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-sunglasses-4-0.svg",
+        "altText": "Original illustration of the everyday rectangle in chocolate",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-sunglasses-4-1.svg",
+        "altText": "Original illustration of the everyday rectangle in chocolate",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-sunglasses-4-0.svg",
+      "altText": "Original illustration of the everyday rectangle in chocolate",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Chocolate"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-16-0",
+        "title": "Chocolate / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "260",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-17",
+    "handle": "demo-sunglasses-5",
+    "title": "The rounded frame",
+    "vendor": "BP Studio · Sample",
+    "category": "sunglasses",
+    "productType": "Sunglasses",
+    "description": "A tan rounded frame, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 305,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-25T23:55:46.814Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Acetate",
+      "style": "Minimal",
+      "dimensions": "Lens 52 mm · Bridge 19 mm · Temple 140 mm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-sunglasses-5-0.svg",
+        "altText": "Original illustration of the rounded frame in tan",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-sunglasses-5-1.svg",
+        "altText": "Original illustration of the rounded frame in tan",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-sunglasses-5-0.svg",
+      "altText": "Original illustration of the rounded frame in tan",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Tan"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-17-0",
+        "title": "Tan / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "305",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-18",
+    "handle": "demo-sunglasses-6",
+    "title": "The fine metal frame",
+    "vendor": "BP Studio · Sample",
+    "category": "sunglasses",
+    "productType": "Sunglasses",
+    "description": "A champagne fine metal frame, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": false,
+    "available": false,
+    "price": 350,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-25T09:31:46.816Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Acetate",
+      "style": "Evening",
+      "dimensions": "Lens 52 mm · Bridge 19 mm · Temple 140 mm",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-sunglasses-6-0.svg",
+        "altText": "Original illustration of the fine metal frame in champagne",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-sunglasses-6-1.svg",
+        "altText": "Original illustration of the fine metal frame in champagne",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-sunglasses-6-0.svg",
+      "altText": "Original illustration of the fine metal frame in champagne",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Champagne"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-18-0",
+        "title": "Champagne / One size",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "350",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-19",
+    "handle": "demo-accessories-1",
+    "title": "The sculpted pendant",
+    "vendor": "BP Studio · Sample",
+    "category": "accessories",
+    "productType": "Accessories & Jewellery",
+    "description": "A cream sculpted pendant, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 95,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-24T19:07:46.817Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Gold-tone metal",
+      "style": "Classic",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-accessories-1-0.svg",
+        "altText": "Original illustration of the sculpted pendant in cream",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-accessories-1-1.svg",
+        "altText": "Original illustration of the sculpted pendant in cream",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-accessories-1-0.svg",
+      "altText": "Original illustration of the sculpted pendant in cream",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cream"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-19-0",
+        "title": "Cream / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "95",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-20",
+    "handle": "demo-accessories-2",
+    "title": "The fine chain necklace",
+    "vendor": "BP Studio · Sample",
+    "category": "accessories",
+    "productType": "Accessories & Jewellery",
+    "description": "A burgundy fine chain necklace, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 140,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-24T04:43:46.818Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Gold-tone metal",
+      "style": "Minimal",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-accessories-2-0.svg",
+        "altText": "Original illustration of the fine chain necklace in burgundy",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-accessories-2-1.svg",
+        "altText": "Original illustration of the fine chain necklace in burgundy",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-accessories-2-0.svg",
+      "altText": "Original illustration of the fine chain necklace in burgundy",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Burgundy"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-20-0",
+        "title": "Burgundy / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "140",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-21",
+    "handle": "demo-accessories-3",
+    "title": "The polished cuff",
+    "vendor": "BP Studio · Sample",
+    "category": "accessories",
+    "productType": "Accessories & Jewellery",
+    "description": "A black polished cuff, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 185,
+    "currency": "GBP",
+    "compare": 275,
+    "createdAt": "2026-10-23T14:19:46.819Z",
+    "fields": {
+      "condition": "Good",
+      "material": "Gold-tone metal",
+      "style": "Evening",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-accessories-3-0.svg",
+        "altText": "Original illustration of the polished cuff in black",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-accessories-3-1.svg",
+        "altText": "Original illustration of the polished cuff in black",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-accessories-3-0.svg",
+      "altText": "Original illustration of the polished cuff in black",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-21-0",
+        "title": "Black / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "185",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "275",
+          "currencyCode": "GBP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "demo-product-22",
+    "handle": "demo-accessories-4",
+    "title": "The everyday hoop earrings",
+    "vendor": "BP Studio · Sample",
+    "category": "accessories",
+    "productType": "Accessories & Jewellery",
+    "description": "A chocolate everyday hoop earrings, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 230,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-22T23:55:46.820Z",
+    "fields": {
+      "condition": "New",
+      "material": "Gold-tone metal",
+      "style": "Classic",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-accessories-4-0.svg",
+        "altText": "Original illustration of the everyday hoop earrings in chocolate",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-accessories-4-1.svg",
+        "altText": "Original illustration of the everyday hoop earrings in chocolate",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-accessories-4-0.svg",
+      "altText": "Original illustration of the everyday hoop earrings in chocolate",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Chocolate"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-22-0",
+        "title": "Chocolate / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "230",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-23",
+    "handle": "demo-accessories-5",
+    "title": "The oval link bracelet",
+    "vendor": "BP Studio · Sample",
+    "category": "accessories",
+    "productType": "Accessories & Jewellery",
+    "description": "A tan oval link bracelet, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 275,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-22T09:31:46.822Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Gold-tone metal",
+      "style": "Minimal",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-accessories-5-0.svg",
+        "altText": "Original illustration of the oval link bracelet in tan",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-accessories-5-1.svg",
+        "altText": "Original illustration of the oval link bracelet in tan",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-accessories-5-0.svg",
+      "altText": "Original illustration of the oval link bracelet in tan",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Tan"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-23-0",
+        "title": "Tan / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "275",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-24",
+    "handle": "demo-accessories-6",
+    "title": "The long pendant",
+    "vendor": "BP Studio · Sample",
+    "category": "accessories",
+    "productType": "Accessories & Jewellery",
+    "description": "A champagne long pendant, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 320,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-21T19:07:46.824Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Gold-tone metal",
+      "style": "Evening",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-accessories-6-0.svg",
+        "altText": "Original illustration of the long pendant in champagne",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-accessories-6-1.svg",
+        "altText": "Original illustration of the long pendant in champagne",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-accessories-6-0.svg",
+      "altText": "Original illustration of the long pendant in champagne",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Champagne"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-24-0",
+        "title": "Champagne / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "320",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-25",
+    "handle": "demo-fashion-1",
+    "title": "The belted wool coat",
+    "vendor": "BP Studio · Sample",
+    "category": "fashion",
+    "productType": "Fashion",
+    "description": "A cream belted wool coat, imagined for a considered wardrobe. A relaxed silhouette with considered proportions and a quiet finish. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 325,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-21T04:43:46.827Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Wool blend",
+      "style": "Classic",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-fashion-1-0.svg",
+        "altText": "Original illustration of the belted wool coat in cream",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-fashion-1-1.svg",
+        "altText": "Original illustration of the belted wool coat in cream",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-fashion-1-0.svg",
+      "altText": "Original illustration of the belted wool coat in cream",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cream"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-25-0",
+        "title": "Cream / S",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": {
+          "amount": "325",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-25-1",
+        "title": "Cream / M",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": {
+          "amount": "325",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-25-2",
+        "title": "Cream / L",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": {
+          "amount": "325",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-26",
+    "handle": "demo-fashion-2",
+    "title": "The tailored jacket",
+    "vendor": "BP Studio · Sample",
+    "category": "fashion",
+    "productType": "Fashion",
+    "description": "A burgundy tailored jacket, imagined for a considered wardrobe. A relaxed silhouette with considered proportions and a quiet finish. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 370,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-20T14:19:46.828Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Wool blend",
+      "style": "Minimal",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-fashion-2-0.svg",
+        "altText": "Original illustration of the tailored jacket in burgundy",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-fashion-2-1.svg",
+        "altText": "Original illustration of the tailored jacket in burgundy",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-fashion-2-0.svg",
+      "altText": "Original illustration of the tailored jacket in burgundy",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Burgundy"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-26-0",
+        "title": "Burgundy / S",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": {
+          "amount": "370",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-26-1",
+        "title": "Burgundy / M",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": {
+          "amount": "370",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-26-2",
+        "title": "Burgundy / L",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": {
+          "amount": "370",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-27",
+    "handle": "demo-fashion-3",
+    "title": "The draped silk blouse",
+    "vendor": "BP Studio · Sample",
+    "category": "fashion",
+    "productType": "Fashion",
+    "description": "A black draped silk blouse, imagined for a considered wardrobe. A relaxed silhouette with considered proportions and a quiet finish. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": false,
+    "available": false,
+    "price": 415,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-19T23:55:46.829Z",
+    "fields": {
+      "condition": "Good",
+      "material": "Wool blend",
+      "style": "Evening",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-fashion-3-0.svg",
+        "altText": "Original illustration of the draped silk blouse in black",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-fashion-3-1.svg",
+        "altText": "Original illustration of the draped silk blouse in black",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-fashion-3-0.svg",
+      "altText": "Original illustration of the draped silk blouse in black",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-27-0",
+        "title": "Black / S",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": {
+          "amount": "415",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-27-1",
+        "title": "Black / M",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": {
+          "amount": "415",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-27-2",
+        "title": "Black / L",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": {
+          "amount": "415",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-28",
+    "handle": "demo-fashion-4",
+    "title": "The longline trench",
+    "vendor": "BP Studio · Sample",
+    "category": "fashion",
+    "productType": "Fashion",
+    "description": "A chocolate longline trench, imagined for a considered wardrobe. A relaxed silhouette with considered proportions and a quiet finish. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 460,
+    "currency": "GBP",
+    "compare": 550,
+    "createdAt": "2026-10-19T09:31:46.833Z",
+    "fields": {
+      "condition": "New",
+      "material": "Wool blend",
+      "style": "Classic",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-fashion-4-0.svg",
+        "altText": "Original illustration of the longline trench in chocolate",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-fashion-4-1.svg",
+        "altText": "Original illustration of the longline trench in chocolate",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-fashion-4-0.svg",
+      "altText": "Original illustration of the longline trench in chocolate",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Chocolate"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-28-0",
+        "title": "Chocolate / S",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": {
+          "amount": "460",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "550",
+          "currencyCode": "GBP"
+        }
+      },
+      {
+        "id": "demo-variant-28-1",
+        "title": "Chocolate / M",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": {
+          "amount": "460",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "550",
+          "currencyCode": "GBP"
+        }
+      },
+      {
+        "id": "demo-variant-28-2",
+        "title": "Chocolate / L",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": {
+          "amount": "460",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "550",
+          "currencyCode": "GBP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "demo-product-29",
+    "handle": "demo-fashion-5",
+    "title": "The soft knit cardigan",
+    "vendor": "BP Studio · Sample",
+    "category": "fashion",
+    "productType": "Fashion",
+    "description": "A tan soft knit cardigan, imagined for a considered wardrobe. A relaxed silhouette with considered proportions and a quiet finish. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 505,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-18T19:07:46.838Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Wool blend",
+      "style": "Minimal",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-fashion-5-0.svg",
+        "altText": "Original illustration of the soft knit cardigan in tan",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-fashion-5-1.svg",
+        "altText": "Original illustration of the soft knit cardigan in tan",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-fashion-5-0.svg",
+      "altText": "Original illustration of the soft knit cardigan in tan",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Tan"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-29-0",
+        "title": "Tan / S",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": {
+          "amount": "505",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-29-1",
+        "title": "Tan / M",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": {
+          "amount": "505",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-29-2",
+        "title": "Tan / L",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": {
+          "amount": "505",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-30",
+    "handle": "demo-fashion-6",
+    "title": "The evening wrap",
+    "vendor": "BP Studio · Sample",
+    "category": "fashion",
+    "productType": "Fashion",
+    "description": "A champagne evening wrap, imagined for a considered wardrobe. A relaxed silhouette with considered proportions and a quiet finish. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 550,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-18T04:43:46.840Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Wool blend",
+      "style": "Evening",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-fashion-6-0.svg",
+        "altText": "Original illustration of the evening wrap in champagne",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-fashion-6-1.svg",
+        "altText": "Original illustration of the evening wrap in champagne",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-fashion-6-0.svg",
+      "altText": "Original illustration of the evening wrap in champagne",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Champagne"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-30-0",
+        "title": "Champagne / S",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "price": {
+          "amount": "550",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-30-1",
+        "title": "Champagne / M",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "price": {
+          "amount": "550",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      },
+      {
+        "id": "demo-variant-30-2",
+        "title": "Champagne / L",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "price": {
+          "amount": "550",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-31",
+    "handle": "demo-beauty-1",
+    "title": "The everyday brush",
+    "vendor": "BP Studio · Sample",
+    "category": "beauty",
+    "productType": "Hair & Beauty",
+    "description": "A cream everyday brush, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 45,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-17T14:19:46.842Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Mixed materials",
+      "style": "Classic",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-beauty-1-0.svg",
+        "altText": "Original illustration of the everyday brush in cream",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-beauty-1-1.svg",
+        "altText": "Original illustration of the everyday brush in cream",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-beauty-1-0.svg",
+      "altText": "Original illustration of the everyday brush in cream",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Cream"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-31-0",
+        "title": "Cream / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Cream"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "45",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-32",
+    "handle": "demo-beauty-2",
+    "title": "The glass vanity bottle",
+    "vendor": "BP Studio · Sample",
+    "category": "beauty",
+    "productType": "Hair & Beauty",
+    "description": "A burgundy glass vanity bottle, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 90,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-16T23:55:46.843Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Mixed materials",
+      "style": "Minimal",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-beauty-2-0.svg",
+        "altText": "Original illustration of the glass vanity bottle in burgundy",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-beauty-2-1.svg",
+        "altText": "Original illustration of the glass vanity bottle in burgundy",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-beauty-2-0.svg",
+      "altText": "Original illustration of the glass vanity bottle in burgundy",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Burgundy"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-32-0",
+        "title": "Burgundy / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Burgundy"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "90",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-33",
+    "handle": "demo-beauty-3",
+    "title": "The ceramic beauty comb",
+    "vendor": "BP Studio · Sample",
+    "category": "beauty",
+    "productType": "Hair & Beauty",
+    "description": "A black ceramic beauty comb, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 135,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-16T09:31:46.846Z",
+    "fields": {
+      "condition": "Good",
+      "material": "Mixed materials",
+      "style": "Evening",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-beauty-3-0.svg",
+        "altText": "Original illustration of the ceramic beauty comb in black",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-beauty-3-1.svg",
+        "altText": "Original illustration of the ceramic beauty comb in black",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-beauty-3-0.svg",
+      "altText": "Original illustration of the ceramic beauty comb in black",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-33-0",
+        "title": "Black / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "135",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-34",
+    "handle": "demo-beauty-4",
+    "title": "The travel vanity case",
+    "vendor": "BP Studio · Sample",
+    "category": "beauty",
+    "productType": "Hair & Beauty",
+    "description": "A chocolate travel vanity case, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 180,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-15T19:07:46.848Z",
+    "fields": {
+      "condition": "New",
+      "material": "Mixed materials",
+      "style": "Classic",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-beauty-4-0.svg",
+        "altText": "Original illustration of the travel vanity case in chocolate",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-beauty-4-1.svg",
+        "altText": "Original illustration of the travel vanity case in chocolate",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-beauty-4-0.svg",
+      "altText": "Original illustration of the travel vanity case in chocolate",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Chocolate"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-34-0",
+        "title": "Chocolate / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Chocolate"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "180",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  },
+  {
+    "id": "demo-product-35",
+    "handle": "demo-beauty-5",
+    "title": "The silk hair ribbon",
+    "vendor": "BP Studio · Sample",
+    "category": "beauty",
+    "productType": "Hair & Beauty",
+    "description": "A tan silk hair ribbon, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": true,
+    "available": true,
+    "price": 225,
+    "currency": "GBP",
+    "compare": 315,
+    "createdAt": "2026-10-15T04:43:46.850Z",
+    "fields": {
+      "condition": "Like New",
+      "material": "Mixed materials",
+      "style": "Minimal",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-beauty-5-0.svg",
+        "altText": "Original illustration of the silk hair ribbon in tan",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-beauty-5-1.svg",
+        "altText": "Original illustration of the silk hair ribbon in tan",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-beauty-5-0.svg",
+      "altText": "Original illustration of the silk hair ribbon in tan",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Tan"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-35-0",
+        "title": "Tan / One size",
+        "availableForSale": true,
+        "quantityAvailable": 2,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Tan"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "225",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": {
+          "amount": "315",
+          "currencyCode": "GBP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "demo-product-36",
+    "handle": "demo-beauty-6",
+    "title": "The dressing-table set",
+    "vendor": "BP Studio · Sample",
+    "category": "beauty",
+    "productType": "Hair & Beauty",
+    "description": "A champagne dressing-table set, imagined for a considered wardrobe. A thoughtfully proportioned piece with refined, minimal detailing. This is a fictional demonstration item with original illustrated artwork. It is not a real product and cannot be purchased.",
+    "availableForSale": false,
+    "available": false,
+    "price": 270,
+    "currency": "GBP",
+    "compare": 0,
+    "createdAt": "2026-10-14T14:19:46.851Z",
+    "fields": {
+      "condition": "Excellent",
+      "material": "Mixed materials",
+      "style": "Evening",
+      "dimensions": "See selected size",
+      "included": "Illustrated demo only; no physical item.",
+      "authentication": "Sample catalogue — no authenticity claim is made.",
+      "care": "Demo content only."
+    },
+    "images": [
+      {
+        "url": "assets/demo/demo-beauty-6-0.svg",
+        "altText": "Original illustration of the dressing-table set in champagne",
+        "width": 760,
+        "height": 920
+      },
+      {
+        "url": "assets/demo/demo-beauty-6-1.svg",
+        "altText": "Original illustration of the dressing-table set in champagne",
+        "width": 760,
+        "height": 920
+      }
+    ],
+    "featuredImage": {
+      "url": "assets/demo/demo-beauty-6-0.svg",
+      "altText": "Original illustration of the dressing-table set in champagne",
+      "width": 760,
+      "height": 920
+    },
+    "options": [
+      {
+        "name": "Colour",
+        "values": [
+          "Champagne"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "One size"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "demo-variant-36-0",
+        "title": "Champagne / One size",
+        "availableForSale": false,
+        "quantityAvailable": 0,
+        "selectedOptions": [
+          {
+            "name": "Colour",
+            "value": "Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "One size"
+          }
+        ],
+        "price": {
+          "amount": "270",
+          "currencyCode": "GBP"
+        },
+        "compareAtPrice": null
+      }
+    ]
+  }
+]
